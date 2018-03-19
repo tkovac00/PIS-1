@@ -11,6 +11,7 @@ namespace ConsoleApplication11
         {
             Console.WriteLine("Hello World");
             // sta ima
+            //vjezba
         }
     }
 }
